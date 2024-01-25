@@ -13,7 +13,7 @@ This webapp was developed using Flask Web Framework. The models used to predict 
 ![image](https://user-images.githubusercontent.com/62790398/125475398-c9a38e88-7cf1-4c37-aec7-5669280f8a22.png)
 
 ![image](https://user-images.githubusercontent.com/62790398/125475606-78b45b72-14d5-4399-bcf5-34f3a8bbb9ff.png)
-
+ ok
 
 ## Steps to run this application in your system
 
